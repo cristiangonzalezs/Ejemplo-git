@@ -28,6 +28,7 @@ public class Clase2 {
 
     public int monto(){
         return -1;
+
     }
 
     public String usuario(){
