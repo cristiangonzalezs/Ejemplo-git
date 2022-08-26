@@ -7,9 +7,14 @@
     <list default="true" id="94698ff3-39ab-4030-9560-655cf7ec5f44" name="Changes" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Proyecto/Clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Proyecto/Clase2.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
       <change afterPath="$PROJECT_DIR$/src/main/java/com/Proyecto/Clase2.java" afterDir="false" />
 >>>>>>> 9536ffe4b14e5861792a3b0cf657be7077110b76
+>>>>>>> 48a08d8eefb68e83e0c910ee4e3dd77b3cd1b623
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
